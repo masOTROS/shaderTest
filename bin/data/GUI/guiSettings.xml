@@ -1,0 +1,87 @@
+<Canvas>
+    <Kind>42</Kind>
+    <Name>OFX_UI_WIDGET_CANVAS</Name>
+    <IsMinified>0</IsMinified>
+    <XPosition>0.000000000</XPosition>
+    <YPosition>0.000000000</YPosition>
+</Canvas>
+<Widget>
+    <Kind>17</Kind>
+    <Name>FishEye</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>lensradius</Name>
+    <Value>2.512315750</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>signcurvature</Name>
+    <Value>2.709360123</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>Brcosa</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>contrast</Name>
+    <Value>1.083743811</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>brightness</Name>
+    <Value>2.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>saturation</Name>
+    <Value>2.807882309</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>alpha</Name>
+    <Value>0.940886676</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>Bloom</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>bloom</Name>
+    <Value>0.812807560</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>LUT</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>Xpro</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>Toaster</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>EarlyBird</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>Shape</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>17</Kind>
+    <Name>Fire</Name>
+    <Value>0</Value>
+</Widget>
